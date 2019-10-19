@@ -38,7 +38,7 @@
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "/Users/mac/Sites/Default.sublime-commands"},
+                                "args": {"file": "${packages}/Users/mac/Sites/Default.sublime-commands"},
                                 "caption": "Commands – User"
                             },
                             { "caption": "-" },
