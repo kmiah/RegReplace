@@ -22,7 +22,7 @@
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/reg_replace_rules.sublime-settings"},
+                                "args": {"file": "/Users/mac/Sites/sites.sublime-workspace/reg_replace_rules.sublime-settings"},
                                 "caption": "Rules – User"
                             },
                             {
@@ -38,7 +38,7 @@
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/Default.sublime-commands"},
+                                "args": {"file": "/Users/mac/Sites/Default.sublime-commands"},
                                 "caption": "Commands – User"
                             },
                             { "caption": "-" },
